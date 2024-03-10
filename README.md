@@ -1,11 +1,12 @@
 # 신입 개발자 면접 대비 CS 스터디 👨🏻‍💻👩🏻‍💻 🔥
 
-[![Since](https://img.shields.io/badge/since-2023.01.02-333333.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study)
+본 레포는 [2023-CS-Study](https://github.com/devSquad-study/2023-CS-Study) 라는 퍼블릭레포를 바탕으로 CS개념을 추가하였습니다.
+
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
 
 ![](/etc/image/developer_interview.jpeg)
 
-CS 스터디 시작 (2023.01.02 ~ ) | 자세한 내용은 👉🏻 [Wiki](https://github.com/devSquad-study/2023-CS-Study/wiki)에서 확인해 주세요.
+
 
 > 면접대비 CS와 관련된 지식을 정리한 레포입니다.
 >
