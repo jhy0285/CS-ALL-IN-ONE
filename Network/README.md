@@ -28,3 +28,4 @@
 
 * [x] [SOP와 CORS](https://github.com/Fancy96/2023-CS-Study/blob/main/Network/network_sop_and_cors.md)
 
+* [x] [API란?](https://github.com/Fancy96/2023-CS-Study/blob/main/Network/network_sop_and_cors.md)
