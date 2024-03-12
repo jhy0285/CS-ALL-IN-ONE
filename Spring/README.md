@@ -26,8 +26,3 @@
     - 1~4까지 개념은 해당 강의를 바탕으로 작성하였습니다.
 - [신입 백엔드 개발 면접 질문 Template](https://appleg1226.tistory.com/37)
 
-## Contributor
-
-|[![](https://github.com/baekeunsun.png?width=200px)](https://github.com/baekeunsun) |[![](https://github.com/ParkJungYoon.png?width=200px)](https://github.com/ParkJungYoon) | [![](https://github.com/namtndus.png?width=200px)](https://github.com/namtndus)|[![](https://github.com/BHC-Chicken.png?width=200px)](https://github.com/BHC-Chicken)|[![](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) |[![](https://github.com/jthugg.png?width=200px)](https://github.com/jthugg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 은선 | 주디 | 수연 | 현철 | 상혁 | 네오 |
