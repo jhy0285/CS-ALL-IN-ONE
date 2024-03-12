@@ -50,12 +50,12 @@
 
 ## Expected question
 
-* [자료구조 & 알고리즘](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/algorithm_expected_question.md)
-* [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/os_expected_question.md)
-* [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/network_expected_question.md)
-* [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/db_expected_question.md)
-* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/java_expected_question.md)
-* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/spring_expected_question.md)
-* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/jpa_expected_question.md)
+* [자료구조 & 알고리즘](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/algorithm_expected_question.md)
+* [운영체제](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/os_expected_question.md)
+* [네트워크](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/network_expected_question.md)
+* [데이터베이스](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/db_expected_question.md)
+* [자바](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/java_expected_question.md)
+* [스프링](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/spring_expected_question.md)
+* [JPA](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/jpa_expected_question.md)
 
 
