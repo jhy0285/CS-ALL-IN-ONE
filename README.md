@@ -39,13 +39,14 @@
 
 ## Contents
 
-* [자료구조 & 알고리즘](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
-* [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/OS/README.md)
-* [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Network/README.md)
-* [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/DB/README.md)
-* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/java/README.md)
-* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Spring/README.md)
-* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/JPA/README.md)
+* [자료구조 & 알고리즘](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Algorithm/README.md)
+* [운영체제](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/OS/README.md)
+* [네트워크](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Network/README.md)
+* [데이터베이스](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/DB/README.md)
+* [자바](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/java/README.md)
+* [스프링](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Spring/README.md)
+* [JPA](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/JPA/README.md)
+* [디자인패턴](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Design/README.md)
 
 ## Expected question
 
@@ -57,9 +58,4 @@
 * [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/spring_expected_question.md)
 * [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/jpa_expected_question.md)
 
-## 👨🏻‍💻👩🏻‍💻 멤버 소개
-
-|[![](https://github.com/devFancy.png?width=200px)](https://github.com/devFancy)|[![](https://github.com/baekeunsun.png?width=200px)](https://github.com/baekeunsun) |[![](https://github.com/ParkJungYoon.png?width=200px)](https://github.com/ParkJungYoon) | [![](https://github.com/namtndus.png?width=200px)](https://github.com/namtndus)|[![](https://github.com/BHC-Chicken.png?width=200px)](https://github.com/BHC-Chicken)|[![](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) |[![](https://github.com/jthugg.png?width=200px)](https://github.com/jthugg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 팬시 | 은선 | 주디 | 수연 | 현철 | 상혁 | 네오 |
 
