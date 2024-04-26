@@ -5,9 +5,9 @@
 
 ## Contributor
 
-|[![](https://github.com/devFancy.png?width=200px)](https://github.com/devFancy)|[![](https://github.com/baekeunsun.png?width=200px)](https://github.com/baekeunsun) |[![](https://github.com/ParkJungYoon.png?width=200px)](https://github.com/ParkJungYoon) | [![](https://github.com/namtndus.png?width=200px)](https://github.com/namtndus)|[![](https://github.com/BHC-Chicken.png?width=200px)](https://github.com/BHC-Chicken)|[![](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) |[![](https://github.com/jthugg.png?width=200px)](https://github.com/jthugg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 팬시 | 은선 | 주디 | 수연 | 현철 | 상혁 | 네오 |
+|[![](https://github.com/devFancy.png?width=200px)](https://github.com/devFancy)|[![](https://github.com/baekeunsun.png?width=200px)](https://github.com/baekeunsun) |[![](https://github.com/ParkJungYoon.png?width=200px)](https://github.com/ParkJungYoon) | [![](https://github.com/namtndus.png?width=200px)](https://github.com/namtndus)|[![](https://github.com/BHC-Chicken.png?width=200px)](https://github.com/BHC-Chicken)|[![](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) |[![](https://github.com/jthugg.png?width=200px)](https://github.com/jthugg)|[![](https://github.com/jhy0285.png?width=200px)](https://github.com/jhy0285)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 팬시 | 은선 | 주디 | 수연 | 현철 | 상혁 | 네오 | 영진 |
 
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
 
