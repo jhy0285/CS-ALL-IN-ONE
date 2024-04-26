@@ -1,6 +1,6 @@
 # 백엔드 개발자를 위한 CS, Spring, DB 꿀통 모음 👨🏻‍💻 🔥
 
-> 본 레포는 [2023-CS-Study](https://github.com/devSquad-study/2023-CS-Study) 라는 퍼블릭레포를 바탕으로 CS개념을 추가하였습니다.
+> 본 레포는 [2023-CS-Study](https://github.com/devSquad-study/2023-CS-Study) 라는 퍼블릭레포를 바탕으로 제가 공부한 CS개념을 추가하였습니다.
 ><br><br> 신입 개발자를 위해 정리하신 내용을 퍼블릭하게 풀어주신 아래 Contributor분들에게 진심으로 감사드립니다!
 
 ## Contributor
