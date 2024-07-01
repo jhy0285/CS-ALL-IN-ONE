@@ -32,7 +32,6 @@
 
 ## Contents
 
-* [자료구조 & 알고리즘](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Algorithm/README.md)
 * [운영체제](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/OS/README.md)
 * [네트워크](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/Network/README.md)
 * [데이터베이스](https://github.com/jhy0285/CS-ALL-IN-ONE/tree/main/DB/README.md)
@@ -46,7 +45,6 @@
 
 ## Expected question
 
-* [자료구조 & 알고리즘](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/algorithm_expected_question.md)
 * [운영체제](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/os_expected_question.md)
 * [네트워크](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/network_expected_question.md)
 * [데이터베이스](https://github.com/jhy0285/CS-ALL-IN-ONE/blob/main/Interview/db_expected_question.md)
